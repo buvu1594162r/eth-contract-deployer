@@ -21,7 +21,7 @@
 **1️⃣ Clone the project**
 
 ```bash
-git clone https://https://github.com/buvu1594162r/eth-contract-deployer
+git clone https://github.com/buvu1594162r/eth-contract-deployer
 cd <your-repo>
 ```
 
